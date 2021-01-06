@@ -3,7 +3,6 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rageobi&label=Profile%20views&color=4d0db7&style=flat" alt="rageobi" />
- 
   <a href="https://twitter.com/abinanthan" target="blank"><img src="https://img.shields.io/twitter/follow/abinanthan?logo=twitter&style=for-the-badge" alt="abinanthan" /></a> 
 </p>
 
